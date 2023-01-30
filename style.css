@@ -16,4 +16,130 @@ body {
    
   }
   
+  .outer1 {
+    background-color: white;
+    align-content: start;
+    margin-left: 110px;
+    margin-top: 30px;
+    box-shadow: 1px 1px 10px 2px black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline-block;
+  
+   
+  }
+  
+  .inner1{
+    background-color: white;
+    align-content: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: normal;
+    padding-top: 10px;
+  }
+  
+  .outer2 {
+       background-color: white;
+    align-content: start;
+    margin-left: 110px;
+    margin-top: 30px;
+    box-shadow: 1px 1px 10px 2px black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline-block;
+  
+  
+   
+  }
+  
+  .inner2{
+    background-color: white;
+    align-content: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: normal;
+    padding-top: 10px;
+  }
+  
+  .outer3 {
+       background-color: white;
+    align-content: start;
+    margin-left: 110px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px 2px black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline-block;
+  
+  }
+  
+   
+  
+  
+  .inner3{
+     background-color: white;
+    align-content: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: normal;
+    padding-top: 10px;
+  }
+  
+  
+  .outer4 {
+       background-color: white;
+    align-content: center;
+    margin-left: 110px;
+    margin-top: 30px;
+    box-shadow: 1px 1px 10px 2px black;
+    width: 950px;
+    height: 200px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    }
+  
+  
+  .inner4{
+     background-color: white;
+    align-content: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: normal;
+    padding-top: 10px;
+  }
   
