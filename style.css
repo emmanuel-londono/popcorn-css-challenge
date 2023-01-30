@@ -157,3 +157,100 @@ body {
     padding-top: 10px;
   }
   
+  
+.buttons{
+    background: #805215;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    border: 0.1px;
+    border-bottom: none;
+    padding: 20px 20px 20px 20px;
+    
+  }
+  #btn1{
+    position: relative;
+   bottom: 60px;
+   left: 800px;
+  }
+  #btn2{
+    position: relative;
+   bottom: 60px;
+   left: 825px;
+  }
+  #btn3{
+    position: relative;
+   bottom: 60px;
+   left: 850px;
+  }
+  #btn4{
+    position: relative;
+   bottom: 60px;
+   left: 875px;
+  }
+  
+  #btn5{
+   
+    border: solid black;
+    border-width: thin;
+    justify-content: center;
+    margin-top: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 50px;
+    font-size: 15px;
+    font-family: sans-serif;
+  }
+  
+  #btn6{
+   
+    border: solid black;
+    border-width: thin;
+    justify-content: center;
+    margin-top: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    height: 50px;
+      }
+    #btn7{
+   
+    border: solid black;
+    border-width: thin;
+    justify-content: center;
+    margin-top: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    height: 50px;
+    
+    }
+    
+      
+  #btn8{
+   
+    border: solid black;
+    border-width: thin;
+    justify-content: center;
+    margin-top: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    height: 50px;
+    width: 950px;
+    
+    }
+    
+  
+  
